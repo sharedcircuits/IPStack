@@ -1,4 +1,4 @@
-IPStack for the Teensy 3.6
+<b>IPStack for the Teensy 3.6</b>
 
 This is from https://github.com/manitou48/teensy3 where manitou48 has done all the hard work and recognition should go to them.
 This is not forked as manitou48 repository has a lot of other Teensy libraries and files not relevent to this project.
